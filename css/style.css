@@ -19,3 +19,11 @@ padding: 0;
      width: 60%;
  }
   }
+  .flex-container{
+    display: flex;
+    background-color: aquamarine;
+    margin:20px;
+    padding:10px;
+    border:14px;
+
+  }
