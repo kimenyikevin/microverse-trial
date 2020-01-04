@@ -1,0 +1,21 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+#nav-bar{
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+}
+.nav-link{
+    text-decoration: none;
+    padding: 5px;
+}
+@media only screen and (max-width: 600px) {
+ #nav-bar{
+     width: 60%;
+ }
+  }
